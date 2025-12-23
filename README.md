@@ -87,10 +87,6 @@ pendaftaran-siswa-java-netbeans/
 5. **Lihat Data**: Akses menu daftar siswa untuk melihat semua data
 6. **Edit/Hapus**: Pilih data siswa dan gunakan tombol Edit atau Hapus
 
-## 📸 Screenshot
-
-*Tambahkan screenshot aplikasi Anda di sini*
-
 ## 🗄️ Database Schema
 
 Database `tpidarulhikmah` berisi tabel untuk menyimpan:
