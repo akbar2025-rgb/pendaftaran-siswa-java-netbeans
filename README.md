@@ -30,10 +30,10 @@ pendaftaran-siswa-java-netbeans/
 ├── dist/                   # File distribusi aplikasi
 ├── nbproject/              # Konfigurasi NetBeans
 ├── src/                    # Source code
-│   └── tpidarulhikmah/    # Package utama aplikasi
-├── build.xml              # Konfigurasi build Ant
-├── manifest.mf            # Manifest file
-└── tpidarulhikmah.sql    # Database schema
+│   └── tpidarulhikmah/     # Package utama aplikasi
+├── build.xml               # Konfigurasi build Ant
+├── manifest.mf             # Manifest file
+└── tpidarulhikmah.sql      # Database schema
 ```
 
 ## 🚀 Cara Instalasi
