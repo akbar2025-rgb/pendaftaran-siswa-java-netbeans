@@ -1,6 +1,6 @@
-# Sistem Pendaftaran Siswa TPI Darul Hikmah
+# Sistem Pendaftaran Siswa
 
-Aplikasi desktop berbasis Java untuk mengelola proses pendaftaran siswa baru di TPI Darul Hikmah. Dibangun menggunakan Java Swing dengan NetBeans IDE dan MySQL sebagai database.
+Aplikasi desktop berbasis Java untuk mengelola proses pendaftaran siswa baru. Dibangun menggunakan Java Swing dengan NetBeans IDE dan MySQL sebagai database.
 
 ## 📋 Deskripsi
 
@@ -122,7 +122,6 @@ Project ini dibuat untuk keperluan pendidikan dan pembelajaran.
 
 ## 🙏 Acknowledgments
 
-- TPI Darul Hikmah
 - NetBeans Community
 - MySQL Documentation
 
